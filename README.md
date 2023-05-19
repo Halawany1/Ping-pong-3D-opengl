@@ -1,6 +1,6 @@
 # Ping-pong-3D-opengl
 
-#Contents
+# Contents
 1. Introduction.	
 2. Game Description.	
 3. How to Play	
