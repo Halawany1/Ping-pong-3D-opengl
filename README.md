@@ -48,6 +48,7 @@ This is Computer Graphics documentation. It was written by 6-members team in BFC
 
 
 
-![Picture3](https://github.com/Halawany1/Ping-pong-3D-opengl/assets/96886506/86d468ed-2b3c-4909-a4e7-b74a44b52d25)
+![Capture](https://github.com/Halawany1/Ping-pong-3D-opengl/assets/96886506/809098a0-78ad-4a3d-af6d-f501816f4388)
+
 
  
