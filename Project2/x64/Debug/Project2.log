@@ -1,0 +1,44 @@
+﻿  Source.cpp
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(15,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(16,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(18,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(19,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(39,25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(236,42): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(313,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(319,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(324,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(330,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(331,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(335,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(341,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(348,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(357,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(365,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(374,46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(399,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(463,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(799,39): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(801,39): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(807,39): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Eng\Desktop\Project\CG\CG\Source.cpp(809,39): warning C4305: '-=': truncation from 'double' to 'float'
+Source.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl loop(void)" (?loop@@YAXXZ)
+Source.obj : error LNK2019: unresolved external symbol __imp_glutIdleFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutSpecialFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutReshapeFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutMouseFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutMotionFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardUpFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutSpecialUpFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutBitmapCharacter referenced in function "void __cdecl drawText(char *,float,float,float)" (?drawText@@YAXPEADMMM@Z)
+Source.obj : error LNK2019: unresolved external symbol __imp_glutIgnoreKeyRepeat referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+Source.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+Source.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x64\freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Eng\source\repos\Project2\x64\Debug\Project2.exe : fatal error LNK1120: 18 unresolved externals
