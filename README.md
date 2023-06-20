@@ -10,7 +10,7 @@
  
 # 1. Introduction.	
 
-This is Computer Graphics documentation. It was written by 6-members team in BFCAI. This documentation explains every part of the project. All headings found in the table of contents on the previous page will cover the project.
+This is Computer Graphics documentation. This documentation explains every part of the project. All headings found in the table of contents on the previous page will cover the project.
 
 # 2. Game Description.
 
